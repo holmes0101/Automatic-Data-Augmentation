@@ -1,0 +1,49 @@
+{
+  "Subpolicy 0": {
+    "Elastic Deform": {
+      "Probability": 0.1,
+      "Magnitude": 6.3
+    },
+    "TranslateX": {
+      "Probability": 0.2,
+      "Magnitude": -5.0
+    }
+  },
+  "Subpolicy 1": {
+    "TranslateX": {
+      "Probability": 1.0,
+      "Magnitude": -2.0
+    },
+    "Shear": {
+      "Probability": 0.0,
+      "Magnitude": 12.0
+    }
+  },
+  "Subpolicy 2": {
+    "FlipY": {
+      "Probability": 0.8,
+      "Magnitude": 0.2
+    },
+    "TranslateY": {
+      "Probability": 0.1,
+      "Magnitude": 1.0
+    }
+  },
+  "Subpolicy 3": {
+    "Elastic Deform": {
+      "Probability": 0.0,
+      "Magnitude": 1.4
+    }
+  },
+  "Subpolicy 4": {
+    "Shear": {
+      "Probability": 0.7000000000000001,
+      "Magnitude": -8.0
+    },
+    "Elastic Deform": {
+      "Probability": 0.0,
+      "Magnitude": 2.8
+    }
+  },
+  "Reward": 19.6737166015625
+}
