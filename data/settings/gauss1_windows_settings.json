@@ -1,0 +1,8 @@
+{
+ "root_path":  "C:/Users/Eduardo Montesuma/Desktop/InnovR_Eduardo/challenge",
+ "train_path": "C:/Users/Eduardo Montesuma/Desktop/InnovR_Eduardo/challenge/gauss_1/train/",
+ "valid_path": "C:/Users/Eduardo Montesuma/Desktop/InnovR_Eduardo/challenge/gauss_1/valid/",
+ "test_path":  "C:/Users/Eduardo Montesuma/Desktop/InnovR_Eduardo/challenge/gauss_1/test/",
+ "filter": false,
+ "batch_size": 3
+}

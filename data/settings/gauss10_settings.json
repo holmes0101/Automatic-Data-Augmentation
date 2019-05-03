@@ -1,0 +1,8 @@
+{
+ "root_path":  "/home/efernand/challenge",
+ "train_path": "/home/efernand/challenge/gauss_10/train/",
+ "valid_path": "/home/efernand/challenge/gauss_10/valid/",
+ "test_path":  "/home/efernand/challenge/gauss_10/test/",
+ "filter": false,
+ "batch_size": 8
+}

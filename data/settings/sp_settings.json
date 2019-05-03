@@ -1,0 +1,8 @@
+{
+ "root_path":  "/home/efernand/challenge",
+ "train_path": "/home/efernand/challenge/sp/train/",
+ "valid_path": "/home/efernand/challenge/sp/valid/",
+ "test_path":  "/home/efernand/challenge/sp/test/",
+ "filter": false,
+ "batch_size": 8
+}
