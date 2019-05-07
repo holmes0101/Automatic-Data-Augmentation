@@ -16,7 +16,7 @@ Uses [Imgaug](https://github.com/aleju/imgaug) to implement policy image transfo
 
 Implementation of a Denoising Autoencoder in Keras. Neural network architecture:
 
-![alt text](https://ibb.co/JdJ0632)
+![](https://github.com/eddardd/Automatic-Data-Augmentation/blob/master/DAE_Architecture.png)
 
 ## Controller module
 
