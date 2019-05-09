@@ -8,8 +8,7 @@ import keras.backend as backend
 
 # My modules
 from data import MNIST
-from controller_V2 import Controller
-from model_saver import ModelSaver
+from controller import Controller, ModelSaver
 
 
 tf.reset_default_graph()
