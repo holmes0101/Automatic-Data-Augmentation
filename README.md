@@ -20,7 +20,9 @@ Implementation of a Denoising Autoencoder in Keras. Neural network architecture:
 
 ## Controller module
 
-Contains the code for the Controller Network used to predict Optimal Augmentation policies
+Contains the code for the Controller Network used to predict Optimal Augmentation policies. Controller architecture:
+
+![](https://github.com/eddardd/Automatic-Data-Augmentation/blob/master/ControllerArch.png)
 
 ## Tests
 
